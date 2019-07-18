@@ -8,6 +8,4 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo/badge.svg)](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo)
 
-[![Known Vulnerabilities](https://snyk.io/test/npm/codacy-coverage/badge.svg)](https://snyk.io/test/npm/codacy-coverage)
-
 Files are copied over from another demo. This is just being used to test different vulnerability scanning options and see how they work.
