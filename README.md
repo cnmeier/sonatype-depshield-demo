@@ -4,6 +4,4 @@
 
 [![codecov](https://codecov.io/gh/TechnionYP5777/sonatype-depshield-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/TechnionYP5777/sonatype-depshield-demo)
 
-[![Build Status](https://travis-ci.org/TechnionYP5777/sonatype-depshield-demo.png)](https://travis-ci.org/TechnionYP5777/sonatype-depshield-demo)
-
 Files are copied over from another demo. This is just being used to test different vulnerability scanning options and see how they work.
