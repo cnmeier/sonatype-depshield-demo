@@ -4,4 +4,7 @@
 
 [![codecov](https://codecov.io/gh/TechnionYP5777/sonatype-depshield-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/TechnionYP5777/sonatype-depshield-demo)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
+
+
 Files are copied over from another demo. This is just being used to test different vulnerability scanning options and see how they work.
