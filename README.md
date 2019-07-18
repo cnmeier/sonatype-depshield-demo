@@ -6,6 +6,4 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo/badge.svg)](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo)
 
-https://img.shields.io/bitbucket/issues-raw/cnmeier/sonatype-depshield-demo.svg
-
 Files are copied over from another demo. This is just being used to test different vulnerability scanning options and see how they work.
