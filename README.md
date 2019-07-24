@@ -6,9 +6,9 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo/badge.svg)](https://snyk.io/test/github/cnmeier/sonatype-depshield-demo)
 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/cnmeier/sonatype-depshield-demo.svg
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/cnmeier/sonatype-depshield-demo.svg)
 
-![Bitbucket label](https://img.shields.io/static/v1.svg?label=James%27s%20Fault?&message=yes&color=3CC3B2
+![Bitbucket label](https://img.shields.io/static/v1.svg?label=James%27s%20Fault?&message=yes&color=3CC3B2)
 
 
 Files are copied over from another demo. This is just being used to test different vulnerability scanning options and see how they work.
